@@ -1,6 +1,6 @@
 # school_21
 
-Чистка кэша
+## Чистка кэша | Clearing the cache
 > rm -rf ~/Library/Caches/*
 >
 > rm -rf ~/Library/42_cache
