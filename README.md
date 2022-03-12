@@ -1,5 +1,8 @@
 # school_21
 
+## XP Calculator
+[XP Calculator](https://42.tbailleu.dev/)
+
 ## Чистка кэша | Clearing the cache
 > rm -rf ~/Library/Caches/*
 >
